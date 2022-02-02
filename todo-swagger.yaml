@@ -4,8 +4,8 @@ info:
   version: "1.0.0"
   title: "Swagger Golang Todo API"
   contact:
-    email: "hi@pacheco.io"
-host: "localhost:5000"
+    email: "spencer.moulton@qlik.com"
+host: "localhost:5001"
 basePath: "/api"
 schemes:
   - "http"
